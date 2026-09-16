@@ -1,15 +1,16 @@
-# CodeAlpha - Artificial Intelligence Chatbot (Task 3)
+# CodeAlpha - Hotel Reservation System (Task 4)
 
-An interactive, rule-based AI chatbot built in Java for the **CodeAlpha Java Programming Internship**.
+A Java application that manages hotel room availability, category-based room searches, bookings, payment simulations, and cancellations. Built for the **CodeAlpha Java Programming Internship**.
 
 ## 📌 Features
-- **Pattern Matching**: Analyzes user input to map intent to known FAQ triggers.
-- **Pre-Trained Knowledge Base**: Answers questions regarding Java, CodeAlpha, and basic greetings.
-- **Interactive Console Interface**: Real-time continuous conversation support.
+- **Room Search & Categorization**: Browse Standard, Deluxe, and Suite rooms with pricing details.
+- **Reservation Processing**: Book available rooms with automated payment simulation.
+- **Cancellation System**: Cancel reservations using a unique Booking ID to re-open room availability.
+- **Booking Summary**: View active guest reservations and booking receipts.
 
 ## 🛠️ Built With
 - **Language**: Java (JDK 17+)
-- **Concepts**: Java Collections Framework (`HashMap`), String manipulation, Pattern matching algorithms.
+- **Concepts Used**: Object-Oriented Programming (OOP), Java Collections Framework (`ArrayList`, `List`), Random identifier generation.
 
 ---
 *Developed by Touseef Akbar for CodeAlpha Internship.*
