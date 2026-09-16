@@ -1,16 +1,15 @@
-# CodeAlpha - Stock Trading Platform (Task 2)
+# CodeAlpha - Artificial Intelligence Chatbot (Task 3)
 
-A Java-based console application simulating a stock trading environment, developed as part of the **CodeAlpha Java Programming Internship**.
+An interactive, rule-based AI chatbot built in Java for the **CodeAlpha Java Programming Internship**.
 
 ## 📌 Features
-- **Real-Time Market Data**: View live mock stock quotes with company names and prices.
-- **Buy/Sell Operations**: Execute transactions with automatic balance calculation and shares management.
-- **Portfolio Tracking**: View total cash balance, current holdings value, and combined account worth.
-- **Transaction History**: Track all buy and sell activity in a clean log format.
+- **Pattern Matching**: Analyzes user input to map intent to known FAQ triggers.
+- **Pre-Trained Knowledge Base**: Answers questions regarding Java, CodeAlpha, and basic greetings.
+- **Interactive Console Interface**: Real-time continuous conversation support.
 
 ## 🛠️ Built With
 - **Language**: Java (JDK 17+)
-- **Concepts Used**: Object-Oriented Programming (OOP), Java Collections Framework (`Map`, `List`), File I/O (`Serializable`)
+- **Concepts**: Java Collections Framework (`HashMap`), String manipulation, Pattern matching algorithms.
 
-## 🚀 How to Run
-1. Clone this repository:
+---
+*Developed by Touseef Akbar for CodeAlpha Internship.*
